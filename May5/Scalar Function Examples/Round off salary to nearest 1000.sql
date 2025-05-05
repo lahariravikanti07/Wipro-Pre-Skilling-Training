@@ -1,0 +1,1 @@
+SELECT Name, ROUND(Salary, -3) AS RoundedSalary FROM Employees;
