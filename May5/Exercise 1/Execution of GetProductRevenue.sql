@@ -1,0 +1,1 @@
+EXEC GetProductRevenue @ProductID = 1;
