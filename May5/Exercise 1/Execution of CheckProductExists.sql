@@ -1,0 +1,1 @@
+EXEC CheckProductExists @ProductID = 1;
