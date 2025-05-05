@@ -1,0 +1,1 @@
+SELECT AVG(Marks) AS AverageMarks FROM Students;
