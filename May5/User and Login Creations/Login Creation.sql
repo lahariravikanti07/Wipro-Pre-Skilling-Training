@@ -1,0 +1,1 @@
+CREATE LOGIN test_login WITH PASSWORD = 'StrongP@ss123';
