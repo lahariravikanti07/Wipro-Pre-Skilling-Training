@@ -1,2 +1,2 @@
 DELETE FROM Books
-WHERE Title = 'Alchemist';
+WHERE Title = 'The Alchemist';
