@@ -1,0 +1,2 @@
+DELETE FROM Books
+WHERE Price > 600.00;
