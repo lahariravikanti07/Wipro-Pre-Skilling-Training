@@ -40,3 +40,5 @@ namespace EmployeeManagement
         }
     }
 }
+
+//This file should only contain the Employee class
