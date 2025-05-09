@@ -34,6 +34,6 @@ class Program
 
         Console.WriteLine($"Addition of 3 integers : {cal.Add(2, 4, 6)}");
 
-        Console.WriteLine($"Addition of 2 doubles : {cal.Add(2.2, 4.4)}");
+        Console.WriteLine($"Addition of 2 doubles : {cal.Add(2.2, 4.4)}\n");
     }
 }
