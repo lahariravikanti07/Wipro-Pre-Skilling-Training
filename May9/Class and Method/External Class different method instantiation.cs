@@ -15,4 +15,4 @@ namespace ConsoleApp2
             student2.PrintDetails();
         }
     }
-}
+} 
