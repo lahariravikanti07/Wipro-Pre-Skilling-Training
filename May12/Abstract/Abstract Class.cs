@@ -3,7 +3,7 @@ abstract class Shape
     public abstract void Draw(); // Abstract method
     public void Display()
     {
-        Console.WrireLine("This is a shape");
+        Console.WriteLine("This is a shape");
     }
 }
 
