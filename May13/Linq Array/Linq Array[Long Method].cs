@@ -40,3 +40,5 @@ namespace Linq_Practice.Practice1
         }
     }
 }
+
+// This is the Long method for writing the program. By using LAMBDA FUNCTION we can reduce the number of lines of the program.
