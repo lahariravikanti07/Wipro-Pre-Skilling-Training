@@ -35,3 +35,5 @@ namespace Linq_Practice.Practice1
         }
     }
 }
+
+// Here the number of lines are reduced due to the use of LAMBDA FUNCTION
