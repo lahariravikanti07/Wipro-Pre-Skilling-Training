@@ -1,0 +1,16 @@
+ON ADDITION OF CATEGORY CLASS
+Add-Migration -Name RelationshipMigration -Context TaskofMay19Context 
+Update-Database -Migration RelationshipMigration -Context TaskofMay19Context 
+
+
+REMOVING THE CATEGORY CLASS
+Add-Migration -Name RemoveCategoryMigration -Context TaskofMay19Context 
+Update-Database -Migration RemoveCategoryMigration -Context TaskofMay19Context 
+
+
+ADDING THE PROPERTY "DESCRIPTION" TO PRODUCT CLASS
+Add-Migration -Name AddDescriptionMigration -Context TaskofMay19Context 
+Update-Database -Migration AddDescriptionMigration -Context TaskofMay19Context 
+
+
+

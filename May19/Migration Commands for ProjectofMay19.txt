@@ -1,0 +1,12 @@
+Add-Migration -Name RelationshipMigration -Context ProjectofMay19Context
+Update-Database -Migration RelationshipMigration -Context ProjectofMay19Context
+
+
+REMOVING THE GRADE CLASS
+Add-Migration -Name RemoveGradeMigration -Context ProjectofMay19Context
+Update-Database -Migration RemoveGradeMigration -Context ProjectofMay19Context
+
+
+ADDING THE "EMAIL" PROPERTY TO STUDENT CLASS
+Add-Migration -Name AddEmailMigration -Context ProjectofMay19Context
+Update-Database -Migration AddEmailMigration -Context ProjectofMay19Context

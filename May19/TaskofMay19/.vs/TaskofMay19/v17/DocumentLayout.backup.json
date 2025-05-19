@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742415-3512-4C3D-A21A-E877B838B0C7}|TaskofMay19\\TaskofMay19.csproj|c:\\users\\admin\\source\\repos\\taskofmay19\\taskofmay19\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742415-3512-4C3D-A21A-E877B838B0C7}|TaskofMay19\\TaskofMay19.csproj|solutionrelative:taskofmay19\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519101806_AddProducrDescriptionMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskofMay19\\Migrations\\20250519101806_AddProducrDescriptionMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519101518_RemoveCategoryMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskofMay19\\Migrations\\20250519101518_RemoveCategoryMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519101039_RelationshipMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskofMay19\\Migrations\\20250519101039_RelationshipMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742415-3512-4C3D-A21A-E877B838B0C7}|TaskofMay19\\TaskofMay19.csproj|c:\\users\\admin\\source\\repos\\taskofmay19\\taskofmay19\\data\\taskofmay19context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742415-3512-4C3D-A21A-E877B838B0C7}|TaskofMay19\\TaskofMay19.csproj|solutionrelative:taskofmay19\\data\\taskofmay19context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519100357_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskofMay19\\Migrations\\20250519100357_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742415-3512-4C3D-A21A-E877B838B0C7}|TaskofMay19\\TaskofMay19.csproj|c:\\users\\admin\\source\\repos\\taskofmay19\\taskofmay19\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742415-3512-4C3D-A21A-E877B838B0C7}|TaskofMay19\\TaskofMay19.csproj|solutionrelative:taskofmay19\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250519101806_AddProducrDescriptionMigration.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519101806_AddProducrDescriptionMigration.cs",
+              "RelativeDocumentMoniker": "TaskofMay19\\Migrations\\20250519101806_AddProducrDescriptionMigration.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519101806_AddProducrDescriptionMigration.cs",
+              "RelativeToolTip": "TaskofMay19\\Migrations\\20250519101806_AddProducrDescriptionMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:18:06.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250519101518_RemoveCategoryMigration.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519101518_RemoveCategoryMigration.cs",
+              "RelativeDocumentMoniker": "TaskofMay19\\Migrations\\20250519101518_RemoveCategoryMigration.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519101518_RemoveCategoryMigration.cs",
+              "RelativeToolTip": "TaskofMay19\\Migrations\\20250519101518_RemoveCategoryMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:15:18.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250519101039_RelationshipMigration.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519101039_RelationshipMigration.cs",
+              "RelativeDocumentMoniker": "TaskofMay19\\Migrations\\20250519101039_RelationshipMigration.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519101039_RelationshipMigration.cs",
+              "RelativeToolTip": "TaskofMay19\\Migrations\\20250519101039_RelationshipMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:10:39.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskofMay19Context.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Data\\TaskofMay19Context.cs",
+              "RelativeDocumentMoniker": "TaskofMay19\\Data\\TaskofMay19Context.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Data\\TaskofMay19Context.cs",
+              "RelativeToolTip": "TaskofMay19\\Data\\TaskofMay19Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:08:42.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250519100357_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519100357_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskofMay19\\Migrations\\20250519100357_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Migrations\\20250519100357_InitialCreate.cs",
+              "RelativeToolTip": "TaskofMay19\\Migrations\\20250519100357_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:03:57.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TaskofMay19\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TaskofMay19\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:02:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TaskofMay19\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\TaskofMay19\\TaskofMay19\\Models\\Product.cs",
+              "RelativeToolTip": "TaskofMay19\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:56:08.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
