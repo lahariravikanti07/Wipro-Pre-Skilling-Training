@@ -5,6 +5,11 @@
   font-family: Arial, sans-serif;
 }
 
+body {
+  background-color: #e6f7ff;
+}
+
+
 header {
   background: #0d3b66;
   color: #fff;
@@ -22,7 +27,7 @@ nav a {
 
 .hero {
   background: url('https://source.unsplash.com/1600x600/?travel') no-repeat center/cover;
-  color: white;
+  color: purple;
   text-align: center;
   padding: 5rem 2rem;
 }
