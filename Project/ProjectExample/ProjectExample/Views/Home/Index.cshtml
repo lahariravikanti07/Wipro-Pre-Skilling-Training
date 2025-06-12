@@ -1,0 +1,100 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f4f6f8;
+        color: #333;
+        margin: 0;
+        padding: 0;
+    }
+
+    .hero {
+        padding: 60px 20px;
+        margin: 0 auto;
+        max-width: 1400px;
+        text-align: center;
+    }
+
+        .hero h1 {
+            font-size: clamp(2rem, 5vw, 4rem);
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+
+        .hero p {
+            font-size: clamp(1rem, 2vw, 1.5rem);
+            color: #555;
+            max-width: 900px;
+            margin: 0 auto 40px auto;
+        }
+
+    .book-image {
+        width: 100%;
+        max-width: 1000px;
+        height: auto;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .features {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+        justify-content: center;
+        margin: 60px auto;
+        max-width: 1200px;
+        padding: 0 20px;
+    }
+
+    .feature-card {
+        background-color: #ffffff;
+        padding: 30px;
+        border-radius: 12px;
+        width: 300px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.07);
+        text-align: center;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .feature-card h4 {
+            font-size: 1.5rem;
+            color: #2c3e50;
+            margin-bottom: 12px;
+        }
+
+        .feature-card p {
+            font-size: 1rem;
+            color: #666;
+            line-height: 1.6;
+        }
+</style>
+
+<div class="text-center hero">
+    <h1>Welcome to the Online Book Library</h1>
+    <p>Your digital destination for reading, managing, and discovering books online.</p>
+    <img src="https://images.pexels.com/photos/2041540/pexels-photo-2041540.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Book cover" class="book-image" />
+</div>
+
+<div class="features">
+    <div class="feature-card">
+        <h4>📚 Browse Books</h4>
+        <p>Explore our growing collection of books across various genres and authors.</p>
+    </div>
+    <div class="feature-card">
+        <h4>🛠️ Manage Collection</h4>
+        <p>Add, update, or delete books in your library as needed.</p>
+    </div>
+    <div class="feature-card">
+        <h4>✅ Book Availability</h4>
+        <p>Check if a book is currently available for reading or borrowing.</p>
+    </div>
+</div>

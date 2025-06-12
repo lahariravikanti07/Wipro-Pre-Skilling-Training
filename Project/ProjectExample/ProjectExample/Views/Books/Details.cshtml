@@ -1,0 +1,69 @@
+﻿@model ProjectExample.Models.Book
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<style>
+    body {
+        background-color: #f5f5f5;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 30px;
+    }
+
+    h1 {
+        color: #0a58ca;
+        font-weight: bold;
+        margin-bottom: 30px;
+        font-size: 2.5rem; /* Increased font size */
+    }
+
+    .card {
+        background-color: #ffffff;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+        max-width: 800px; /* Increased card width */
+        margin: auto;
+        font-size: 1.1rem; /* Increased text size inside card */
+    }
+
+    .row dt {
+        font-weight: bold;
+    }
+
+    a.btn {
+        margin-right: 10px;
+        margin-top: 20px;
+    }
+
+    .form-control:focus {
+        border-color: #80bdff;
+        box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+    }
+</style>
+
+<h1>Book Details</h1>
+
+<div class="card">
+    <h4>@Model.Title</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-4">Author</dt>
+        <dd class="col-sm-8">@Model.Author</dd>
+
+        <dt class="col-sm-4">Genre</dt>
+        <dd class="col-sm-8">@Model.Genre</dd>
+
+        <dt class="col-sm-4">Published Year</dt>
+        <dd class="col-sm-8">@Model.PublishedYear</dd>
+
+        <dt class="col-sm-4">Available</dt>
+        <dd class="col-sm-8">@(Model.IsAvailable ? "Yes" : "No")</dd>
+    </dl>
+
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>
